@@ -1,4 +1,4 @@
-# Documentation du tutoriel Github avec Git
+# Documentation du tutoriel Github avec Git effectué Par Hassim Diallo
 
 ## Initialisation du dépôt
 
