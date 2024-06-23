@@ -4,5 +4,7 @@
 
 ```bash
 git init
+git add ou git remote add origin SSH_REPO
+```
 
 
